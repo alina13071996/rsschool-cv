@@ -35,7 +35,8 @@ https://greenprom.herokuapp.com/
 #### 2. Portfolio with two projects (Urgent car purchase in Krasnodar, Transformational travel around the world).
 https://bonalina-portfoilo.herokuapp.com/
 # Education
- * Moscow State Technical University. N.E. Bauman, Moscow *Information management, Informatics and computer technology*
+ * Moscow State Technical University. N.E. Bauman, Moscow 
+ *Information management, Informatics and computer technology*
 # Languages
  * Russian - native speaker
  * English - A2 (B1 in process)
