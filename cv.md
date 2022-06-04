@@ -1,4 +1,4 @@
-# rsshool-cv
+# rssсhool-cv
 # Alina Bondarenko
 # Contact information:
  * **Phone:** +7 977 880 89 46
