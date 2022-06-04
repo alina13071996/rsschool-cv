@@ -1,8 +1,9 @@
+# rsshool-cv
 # Alina Bondarenko
 # Contact information:
-### * **Phone:** +7 977 880 89 46
-### * **E-mail:** bonalina96@mail.ru
-### * **Telegramm:** @bonalina11
+ * **Phone:** +7 977 880 89 46
+#### * **E-mail:** bonalina96@mail.ru
+#### * **Telegramm:** @bonalina11
 # About me:
 ### I'm designer. This is a hobby for me. I like to dive into new challenges every time, explore and look for simple solutions. I am fond of photography, animation and game creation. I also own adaptive layout.
 ### I'm interested in web-development, frontend-development because this profession provides endless opportunities foe professional growth.
